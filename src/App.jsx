@@ -38,7 +38,7 @@ const PRODUCTS = [
     badge: "Masa madre",
     category: "Panes MasaMadre",
     emoji: "🍞",
-    image: "images/maspan/591.png",
+    image: "/images/maspan/591.png",
     desc: "Espelta",
   },
   {
@@ -48,7 +48,7 @@ const PRODUCTS = [
     badge: "",
     category: "Pan Blanco",
     emoji: "🍞",
-    image: "images/maspan/605.png",
+    image: "/images/maspan/605.png",
     desc: "Pan Candeal",
   },
   {
@@ -58,7 +58,7 @@ const PRODUCTS = [
     badge: "",
     category: "Oferta Salada",
     emoji: "🥪",
-    image: "images/maspan/610.png",
+    image: "/images/maspan/610.png",
     desc: "Empanada Gallega de Atún",
   },
   {
@@ -68,7 +68,7 @@ const PRODUCTS = [
     badge: "",
     category: "Pastelería",
     emoji: "🍰",
-    image: "images/maspan/688.png",
+    image: "/images/maspan/688.png",
     desc: "Tarta Fresas con Nata",
   },
   {
@@ -78,7 +78,7 @@ const PRODUCTS = [
     badge: "",
     category: "Pastelería",
     emoji: "🍰",
-    image: "images/maspan/655.png",
+    image: "/images/maspan/655.png",
     desc: "Ponche Segoviano",
   },
   {
@@ -88,7 +88,7 @@ const PRODUCTS = [
     badge: "",
     category: "Pastelería",
     emoji: "🍰",
-    image: "images/maspan/733.png",
+    image: "/images/maspan/733.png",
     desc: "Tarta Aniversario",
   },
   {
@@ -98,7 +98,7 @@ const PRODUCTS = [
     badge: "",
     category: "Pastelería",
     emoji: "🍰",
-    image: "images/maspan/623.png",
+    image: "/images/maspan/623.png",
     desc: "TRENZA NARANJA Y CACAO",
   },
   {
@@ -108,7 +108,7 @@ const PRODUCTS = [
     badge: "",
     category: "Lacteos",
     emoji: "🥛",
-    image: "images/maspan/570.png",
+    image: "/images/maspan/570.png",
     desc: "Leche Semidesnatada",
   },
   {
@@ -118,7 +118,7 @@ const PRODUCTS = [
     badge: "",
     category: "Lacteos",
     emoji: "🥛",
-    image: "images/maspan/574.png",
+    image: "/images/maspan/574.png",
     desc: "6 x Leche Semidesnatada",
   },
   {
@@ -128,7 +128,7 @@ const PRODUCTS = [
     badge: "",
     category: "Lacteos",
     emoji: "🥛",
-    image: "images/maspan/572.png",
+    image: "/images/maspan/572.png",
     desc: "Leche SIN Lactosa SEMIdesnatada",
   },
   {
@@ -138,7 +138,7 @@ const PRODUCTS = [
     badge: "",
     category: "Barras",
     emoji: "🥖",
-    image: "images/maspan/525.png",
+    image: "/images/maspan/525.png",
     desc: "Vienesa",
   },
   {
@@ -148,7 +148,7 @@ const PRODUCTS = [
     badge: "",
     category: "Pan Blanco",
     emoji: "🍞",
-    image: "images/maspan/465.png",
+    image: "/images/maspan/465.png",
     desc: "Chapata",
   },
   {
@@ -158,7 +158,7 @@ const PRODUCTS = [
     badge: "",
     category: "Bollería",
     emoji: "🥐",
-    image: "images/maspan/630.png",
+    image: "/images/maspan/630.png",
     desc: "Croissant Plus Curvo margarina 100gr",
   },
   {
@@ -168,7 +168,7 @@ const PRODUCTS = [
     badge: "",
     category: "Bollería",
     emoji: "🥐",
-    image: "images/maspan/629.png",
+    image: "/images/maspan/629.png",
     desc: "Croissant Plus Curvo MGR 100gr (x3)",
   },
   {
@@ -178,7 +178,7 @@ const PRODUCTS = [
     badge: "",
     category: "Bollería",
     emoji: "🥐",
-    image: "images/maspan/649.png",
+    image: "/images/maspan/649.png",
     desc: "Croissant Plus Recto MTQ (x3)",
   },
   {
@@ -188,7 +188,7 @@ const PRODUCTS = [
     badge: "",
     category: "Bollería",
     emoji: "🥐",
-    image: "images/maspan/631.png",
+    image: "/images/maspan/631.png",
     desc: "Argentino (x3)",
   },
   {
@@ -198,7 +198,7 @@ const PRODUCTS = [
     badge: "",
     category: "Oferta Salada",
     emoji: "🥪",
-    image: "images/maspan/748.png",
+    image: "/images/maspan/748.png",
     desc: "Empanada Gallega Bacalao y Pasas",
   },
   {
@@ -208,7 +208,7 @@ const PRODUCTS = [
     badge: "",
     category: "Oferta Salada",
     emoji: "🥪",
-    image: "images/maspan/771.png",
+    image: "/images/maspan/771.png",
     desc: "Empanada gallega de carne",
   },
   {
@@ -218,7 +218,7 @@ const PRODUCTS = [
     badge: "",
     category: "Oferta Salada",
     emoji: "🥪",
-    image: "images/maspan/665.png",
+    image: "/images/maspan/665.png",
     desc: "Delicias york, queso y atún (x9)",
   },
   {
@@ -228,7 +228,7 @@ const PRODUCTS = [
     badge: "",
     category: "Panes Bienestar",
     emoji: "🧡",
-    image: "images/maspan/526.png",
+    image: "/images/maspan/526.png",
     desc: "Campesina yodada",
   },
   {
@@ -238,7 +238,7 @@ const PRODUCTS = [
     badge: "",
     category: "Oferta Salada",
     emoji: "🥪",
-    image: "images/maspan/669.png",
+    image: "/images/maspan/669.png",
     desc: "Empanadilla atún (x3)",
   },
   {
@@ -248,7 +248,7 @@ const PRODUCTS = [
     badge: "",
     category: "Sabores y Semillas",
     emoji: "🌾",
-    image: "images/maspan/685.png",
+    image: "/images/maspan/685.png",
     desc: "Payesita cereales",
   },
   {
@@ -258,7 +258,7 @@ const PRODUCTS = [
     badge: "",
     category: "Oferta Salada",
     emoji: "🥪",
-    image: "images/maspan/659.png",
+    image: "/images/maspan/659.png",
     desc: "Empanadilla pisto (x3)",
   },
   {
@@ -268,7 +268,7 @@ const PRODUCTS = [
     badge: "",
     category: "Sabores y Semillas",
     emoji: "🌾",
-    image: "images/maspan/686.png",
+    image: "/images/maspan/686.png",
     desc: "Payesita cereales (x2)",
   },
   {
@@ -278,7 +278,7 @@ const PRODUCTS = [
     badge: "Masa madre",
     category: "Panes MasaMadre",
     emoji: "🍞",
-    image: "images/maspan/590.png",
+    image: "/images/maspan/590.png",
     desc: "CENTENO",
   },
   {
@@ -288,7 +288,7 @@ const PRODUCTS = [
     badge: "Masa madre",
     category: "Panes MasaMadre",
     emoji: "🍞",
-    image: "images/maspan/637.png",
+    image: "/images/maspan/637.png",
     desc: "Pan Semillas Nature",
   },
   {
@@ -298,7 +298,7 @@ const PRODUCTS = [
     badge: "",
     category: "Barras",
     emoji: "🥖",
-    image: "images/maspan/530.png",
+    image: "/images/maspan/530.png",
     desc: "Vienesa (x2)",
   },
   {
@@ -308,7 +308,7 @@ const PRODUCTS = [
     badge: "",
     category: "Barras",
     emoji: "🥖",
-    image: "images/maspan/478.png",
+    image: "/images/maspan/478.png",
     desc: "Barra de Riche ",
   },
   {
@@ -318,7 +318,7 @@ const PRODUCTS = [
     badge: "",
     category: "Barras",
     emoji: "🥖",
-    image: "images/maspan/480.png",
+    image: "/images/maspan/480.png",
     desc: "Riche (x2)",
   },
   {
@@ -328,7 +328,7 @@ const PRODUCTS = [
     badge: "",
     category: "Bollería",
     emoji: "🥐",
-    image: "images/maspan/654.png",
+    image: "/images/maspan/654.png",
     desc: "Mini croissant recto MTQ (x12)",
   },
   {
@@ -338,7 +338,7 @@ const PRODUCTS = [
     badge: "",
     category: "Bollería",
     emoji: "🥐",
-    image: "images/maspan/627.png",
+    image: "/images/maspan/627.png",
     desc: "Mini Caracola Margarina (x5)",
   },
   {
@@ -348,7 +348,7 @@ const PRODUCTS = [
     badge: "",
     category: "Bollería",
     emoji: "🥐",
-    image: "images/maspan/661.png",
+    image: "/images/maspan/661.png",
     desc: "Mini Napolitana cacao en crema Gourmet MTQ (x3)",
   },
   {
@@ -358,7 +358,7 @@ const PRODUCTS = [
     badge: "",
     category: "Bollería",
     emoji: "🥐",
-    image: "images/maspan/650.png",
+    image: "/images/maspan/650.png",
     desc: "Flauta de cacao en crema (x3)",
   },
   {
@@ -368,7 +368,7 @@ const PRODUCTS = [
     badge: "",
     category: "Bollería",
     emoji: "🥐",
-    image: "images/maspan/676.png",
+    image: "/images/maspan/676.png",
     desc: "Pastel de Manzana",
   },
   {
@@ -378,7 +378,7 @@ const PRODUCTS = [
     badge: "",
     category: "Bollería",
     emoji: "🥐",
-    image: "images/maspan/684.png",
+    image: "/images/maspan/684.png",
     desc: "Pastel de Manzana (DUPLICADO) x 3",
   },
   {
@@ -388,7 +388,7 @@ const PRODUCTS = [
     badge: "",
     category: "Bollería",
     emoji: "🥐",
-    image: "images/maspan/687.png",
+    image: "/images/maspan/687.png",
     desc: "Palmerita Multicereal MTQ (x3)",
   },
   {
@@ -398,7 +398,7 @@ const PRODUCTS = [
     badge: "",
     category: "Bollería",
     emoji: "🥐",
-    image: "images/maspan/639.png",
+    image: "/images/maspan/639.png",
     desc: "Palmerita Multicereal MTQ (x6)",
   },
   {
@@ -408,7 +408,7 @@ const PRODUCTS = [
     badge: "",
     category: "Bollería",
     emoji: "🥐",
-    image: "images/maspan/653.png",
+    image: "/images/maspan/653.png",
     desc: "FARTON PLUS (x10)",
   },
   {
@@ -418,7 +418,7 @@ const PRODUCTS = [
     badge: "",
     category: "Bollería",
     emoji: "🥐",
-    image: "images/maspan/749.png",
+    image: "/images/maspan/749.png",
     desc: "Farton Plus (x5)",
   },
   {
@@ -428,7 +428,7 @@ const PRODUCTS = [
     badge: "",
     category: "Bollería",
     emoji: "🥐",
-    image: "images/maspan/762.png",
+    image: "/images/maspan/762.png",
     desc: "Maxi Moodie Azucar (x3)",
   },
   {
@@ -438,7 +438,7 @@ const PRODUCTS = [
     badge: "",
     category: "Bollería",
     emoji: "🥐",
-    image: "images/maspan/644.png",
+    image: "/images/maspan/644.png",
     desc: "Maxi Moodie Bombón (x3)",
   },
   {
@@ -448,7 +448,7 @@ const PRODUCTS = [
     badge: "",
     category: "Panecillos",
     emoji: "🥯",
-    image: "images/maspan/479.png",
+    image: "/images/maspan/479.png",
     desc: "Panecillo Hamburguesa (x3)",
   },
   {
@@ -458,7 +458,7 @@ const PRODUCTS = [
     badge: "",
     category: "Bollería",
     emoji: "🥐",
-    image: "images/maspan/527.png",
+    image: "/images/maspan/527.png",
     desc: "Napolitana Cacao en Crema (x2)",
   },
   {
@@ -468,7 +468,7 @@ const PRODUCTS = [
     badge: "",
     category: "Panecillos",
     emoji: "🥯",
-    image: "images/maspan/641.png",
+    image: "/images/maspan/641.png",
     desc: "Barrita Berry (x4)",
   },
   {
@@ -478,7 +478,7 @@ const PRODUCTS = [
     badge: "",
     category: "Bollería",
     emoji: "🥐",
-    image: "images/maspan/105.png",
+    image: "/images/maspan/105.png",
     desc: "Magdalena artesana ADELAIDA (x6)",
   },
   {
@@ -488,7 +488,7 @@ const PRODUCTS = [
     badge: "",
     category: "Panecillos",
     emoji: "🥯",
-    image: "images/maspan/634.png",
+    image: "/images/maspan/634.png",
     desc: "Diamante (x4)",
   },
   {
@@ -498,7 +498,7 @@ const PRODUCTS = [
     badge: "",
     category: "Panecillos",
     emoji: "🥯",
-    image: "images/maspan/671.png",
+    image: "/images/maspan/671.png",
     desc: "Bocadillo Pannier (x2)",
   },
   {
@@ -508,7 +508,7 @@ const PRODUCTS = [
     badge: "",
     category: "Barras",
     emoji: "🥖",
-    image: "images/maspan/753.png",
+    image: "/images/maspan/753.png",
     desc: "CASTELLANA",
   },
   {
@@ -518,7 +518,7 @@ const PRODUCTS = [
     badge: "",
     category: "Bollería",
     emoji: "🥐",
-    image: "images/maspan/747.png",
+    image: "/images/maspan/747.png",
     desc: "Napolitana Crema",
   },
   {
@@ -528,7 +528,7 @@ const PRODUCTS = [
     badge: "",
     category: "Bollería",
     emoji: "🥐",
-    image: "images/maspan/746.png",
+    image: "/images/maspan/746.png",
     desc: "Danesa",
   },
   {
@@ -538,7 +538,7 @@ const PRODUCTS = [
     badge: "",
     category: "Bollería",
     emoji: "🥐",
-    image: "images/maspan/638.png",
+    image: "/images/maspan/638.png",
     desc: "Palmera XL MGR",
   },
   {
@@ -548,7 +548,7 @@ const PRODUCTS = [
     badge: "",
     category: "Sabores y Semillas",
     emoji: "🌾",
-    image: "images/maspan/751.png",
+    image: "/images/maspan/751.png",
     desc: "Pasas y nueces",
   },
   {
@@ -558,7 +558,7 @@ const PRODUCTS = [
     badge: "",
     category: "Barras",
     emoji: "🥖",
-    image: "images/maspan/707.png",
+    image: "/images/maspan/707.png",
     desc: "Fabiola Picos",
   },
   {
@@ -568,7 +568,7 @@ const PRODUCTS = [
     badge: "",
     category: "Panes Bienestar",
     emoji: "🧡",
-    image: "images/maspan/757.png",
+    image: "/images/maspan/757.png",
     desc: "MAIZ",
   },
   {
@@ -578,7 +578,7 @@ const PRODUCTS = [
     badge: "",
     category: "Panes Bienestar",
     emoji: "🧡",
-    image: "images/maspan/759.png",
+    image: "/images/maspan/759.png",
     desc: "Barra 100% INTEGRAL",
   },
   {
@@ -588,10 +588,40 @@ const PRODUCTS = [
     badge: "",
     category: "Pastelería",
     emoji: "🍰",
-    image: "images/maspan/619.png",
+    image: "/images/maspan/619.png",
     desc: "TRENZA NUECES Y PASAS",
   },
 ];
+
+// --- PRECIOS ---
+// Puedes mantener este objeto en blanco y subir un fichero `public/prices.json` con pares { id: precio }
+// para que se rellenen automáticamente. Ejemplo más abajo.
+const PRICE_MAP_PRESET = {
+  // Ejemplo (de tu captura): pack de 3 croissants rectos a 2,40 €
+  "3-x-croissant-plus-recto-mtq-649": 2.40,
+  // Agrega más pares id: precio aquí si quieres tenerlos en el código.
+};
+
+// Hook: devuelve el catálogo con los precios aplicados.
+function useCatalogWithPrices() {
+  const [priceMap, setPriceMap] = React.useState(PRICE_MAP_PRESET);
+
+  React.useEffect(() => {
+    // Carga opcional desde /prices.json (público). Estructura: { "id-del-producto": 1.23, ... }
+    fetch("/prices.json")
+      .then((r) => (r.ok ? r.json() : null))
+      .then((json) => {
+        if (json && typeof json === "object") {
+          setPriceMap((prev) => ({ ...prev, ...json }));
+        }
+      })
+      .catch(() => {});
+  }, []);
+
+  return React.useMemo(() => {
+    return PRODUCTS.map((p) => ({ ...p, price: priceMap[p.id] ?? p.price }));
+  }, [priceMap]);
+}
 
 // ---------------------------------------------------------------------------------
 
@@ -675,6 +705,8 @@ function ProductImage({
 }
 
 export default function MasPanSite() {
+  // Catálogo con precios aplicados (desde PRICE_MAP_PRESET y opcionalmente /prices.json)
+  const CATALOG = useCatalogWithPrices();
   const [mobileMenu, setMobileMenu] = useState(false);
   const [isCartOpen, setIsCartOpen] = useState(false);
   const [cart, setCart] = useLocalStorage("maspan_cart", {}); // {id: qty}
@@ -683,7 +715,7 @@ export default function MasPanSite() {
   const [slot, setSlot] = useLocalStorage("maspan_slot", BUSINESS.deliverySlots[0].id);
 
   const items = useMemo(() => {
-    return PRODUCTS.filter((p) => cart[p.id]).map((p) => ({ ...p, qty: cart[p.id] }));
+    return CATALOG.filter((p) => cart[p.id]).map((p) => ({ ...p, qty: cart[p.id] }));
   }, [cart]);
 
   const total = useMemo(() => {
@@ -691,14 +723,14 @@ export default function MasPanSite() {
   }, [items]);
 
   const categories = useMemo(() => {
-    const set = Array.from(new Set(PRODUCTS.map((p) => p.category)));
+    const set = Array.from(new Set(CATALOG.map((p) => p.category)));
     return set;
   }, []);
 
   const slotLabel = BUSINESS.deliverySlots.find((s) => s.id === slot)?.label ?? "";
 
   function addToCart(id) {
-    const product = PRODUCTS.find((p) => p.id === id);
+    const product = CATALOG.find((p) => p.id === id);
     if (!product || product.price == null) return; // No añadimos si no hay precio
     setCart((prev) => ({ ...prev, [id]: (prev[id] || 0) + 1 }));
   }
@@ -939,7 +971,7 @@ export default function MasPanSite() {
           <div className="relative">
             <div className="aspect-[4/3] w-full rounded-3xl bg-[radial-gradient(circle_at_30%_20%,#fff_0,#f5f5f4_35%,#e7e5e4_100%)] shadow-xl border border-neutral-200 p-6 flex items-center justify-center">
               <div className="grid grid-cols-3 gap-4">
-                {PRODUCTS.slice(0, 6).map((p) => (
+                {CATALOG.slice(0, 6).map((p) => (
                   <div
                     key={p.id}
                     className="rounded-2xl bg-white/80 backdrop-blur border border-neutral-200 p-4 text-center shadow-sm"
@@ -992,7 +1024,7 @@ export default function MasPanSite() {
                 <div className="h-px flex-1 bg-neutral-200" />
               </div>
               <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
-                {PRODUCTS.filter((p) => p.category === cat).map((p) => (
+                {CATALOG.filter((p) => p.category === cat).map((p) => (
                   <article
                     key={p.id}
                     className="group relative overflow-visible rounded-2xl border border-neutral-200 shadow-sm hover:shadow-md transition bg-white p-5 flex flex-col"
@@ -1369,8 +1401,8 @@ export default function MasPanSite() {
 // --- Tests rápidos (smoke tests) en desarrollo ---
 (function devSmokeTests() {
   try {
-    console.assert(Array.isArray(PRODUCTS) && PRODUCTS.length > 0, "PRODUCTS debe ser un array con elementos");
-    const itemSinPrecio = PRODUCTS.find((p) => p.price == null);
+    console.assert(Array.isArray(CATALOG) && CATALOG.length > 0, "CATALOG debe tener elementos");
+    const itemSinPrecio = CATALOG.find((p) => p.price == null);
     if (itemSinPrecio) {
       const puedeAñadir = itemSinPrecio.price != null;
       console.assert(!puedeAñadir, "Los artículos sin precio no deberían poder añadirse");
