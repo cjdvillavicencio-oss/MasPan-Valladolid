@@ -16,18 +16,15 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
-          cache: 'npm'
+          cache: 'npm'   # cachea node_modules si luego hay lockfile, pero NO lo exige
 
-      # ⬇️ usa npm install (no 'npm ci', que falla si no hay package-lock)
+      # 👇 NO usamos 'npm ci' ni 'bahmutov/npm-install' (que requieren lockfile)
       - run: npm install
 
       - run: npm run build
-
-      # 404 para SPA en GitHub Pages
       - run: cp dist/index.html dist/404.html
 
-      # Publica en la rama gh-pages (la crea si no existe)
-      - name: Publish
+      - name: Publish to gh-pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
