@@ -5,6 +5,7 @@ import react from '@vitejs/plugin-react'
 const repo = 'maspan'
 
 export default defineConfig({
-  base: `/${repo}/`,
+  base: '/MasPan-Valladolid/', // ← tu repo
   plugins: [react()],
 })
+
