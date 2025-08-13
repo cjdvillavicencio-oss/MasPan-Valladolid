@@ -16,12 +16,14 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
-          cache: 'npm'   # cachea node_modules si luego hay lockfile, pero NO lo exige
+          cache: 'npm'  # opcional: cachea si luego hay lockfile, pero NO lo exige
 
-      # 👇 NO usamos 'npm ci' ni 'bahmutov/npm-install' (que requieren lockfile)
+      # 👇 Nada de 'npm ci' ni 'bahmutov/npm-install' (que necesitan lockfile)
       - run: npm install
 
       - run: npm run build
+
+      # SPA fallback para refrescos en GH Pages
       - run: cp dist/index.html dist/404.html
 
       - name: Publish to gh-pages
